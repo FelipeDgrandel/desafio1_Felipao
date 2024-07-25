@@ -8,7 +8,7 @@
 //## Objetivo
 //Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 let heroi = "DEKU";
-let xp = 135500
+let xp = 8000
 
 //Se XP for menor do que 1.000 = Ferro
 if ( xp <= 1000){
